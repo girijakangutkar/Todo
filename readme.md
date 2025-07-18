@@ -1,13 +1,13 @@
-## ToDo app
+# ToDo app
 
 .env and .env.test
 
 - Mongo_URI
 
-# install dependencies
+## install dependencies
 
 -- npm install
 
-# run app
+## run app
 
 -- npm start
